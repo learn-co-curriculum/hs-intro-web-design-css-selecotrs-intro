@@ -9,3 +9,4 @@ So far, we've learned about basic CSS selectors. We can add styling to all `h1` 
 + Universal selector
 + Attribute selectors
 + Compound selectors
+<a href='https://learn.co/lessons/hs-intro-web-design-css-selecotrs-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
